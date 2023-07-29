@@ -5,7 +5,6 @@ services:
     image: app-dev
     build:
       context: .
-      target: development
     volumes:
       - ./src:/app/src
     ports:
