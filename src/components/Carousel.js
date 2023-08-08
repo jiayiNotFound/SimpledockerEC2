@@ -6,7 +6,7 @@ import axios from 'axios';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 // import React from "react";
-const baseUrl = "http://localhost:8080/caps";
+const baseUrl = "http://54.179.82.46:8080/caps";
 
 const ControlledCarousel = () => {
 

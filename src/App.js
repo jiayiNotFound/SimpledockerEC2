@@ -39,7 +39,7 @@ function App() {
               <hr className='text-grey p-2'/>
               <Courses/>
           </div>
-            <Button className="btnLogin" variant="primary" size="lg" onClick={event =>  window.location.href='http://localhost:8080/'}>
+            <Button className="btnLogin" variant="primary" size="lg" onClick={event =>  window.location.href='http://54.179.82.46:8080/'}>
               <i className="fa fa-sign-in" aria-hidden="true"></i>
           </Button>
           </Col>

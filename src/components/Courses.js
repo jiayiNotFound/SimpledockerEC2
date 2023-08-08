@@ -4,7 +4,7 @@ import Col from 'react-bootstrap/Col';
 import React, { useEffect } from 'react';
 import axios from 'axios';
 import Accordion from 'react-bootstrap/Accordion';
-const baseUrl = "http://localhost:8080/caps";
+const baseUrl = "http://54.179.82.46:8080/caps";
 
 function Courses() {
 
